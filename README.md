@@ -1,6 +1,7 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
+*This document was forked from another sensible looking code of conduct. If something in it seems weird, or something is missing, speak up!*
 
-###The **iOS Developers Slack** should be a safe place for everybody regardless of
+###The **Casual Code Camp Slack** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -46,21 +47,15 @@ We avoid using offensive topics as a form of humor.
 Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 
 ###Best Practices
-- Stay on topic. The goal of the iOS Slack is to facilitate discussion of things relating to iOS development. This could be about marketing, business, server-side programming, or other things that may be important to an iOS developer.
+- Stay on topic. The goal of the Casual Code Camp Slack is to facilitate discussion of things relating to coding collaboration, sharing, and mutual encouragement. 
 - If you have a technical question, please try and figure it out before posting here. If you're having trouble, all questions are welcome.
 
 ###Invitations
 
-- You must be a member for one week before you are allowed to invite another person.
-- Try to limit your invites to 1 per week, unless you feel rather strongly about a few people.
-- You are responsible for those who you invite... If you invite someone who is causing issues, then your invitation privileges may be revoked.
+- Be sensible, or I'll have to change the default rules
 
 **If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current moderators and their Slack IDs:**
 
-* Joe Fabisevich - [@mergesort](https://iosdevelopers.slack.com/messages/@mergesort/)
-* Tom Catterall - [@swizzlr](https://iosdevelopers.slack.com/messages/@swizzlr/)
-* Jeff Forbes - [@jforbes](https://iosdevelopers.slack.com/messages/@jforbes/)
-* Jeff Grossman - [@jeffgrossman](https://iosdevelopers.slack.com/messages/@jeffgrossman/)
-* Nora Trapp - [@nora](https://iosdevelopers.slack.com/messages/@nora/)
+* Chris Bye - [@chris](https://casualcodecamp.slack.com/messages/@chris/)
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
